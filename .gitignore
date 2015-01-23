@@ -1,0 +1,6 @@
+# OS helper files
+Thumbs.db
+
+# Temp files
+*~
+*.swp
