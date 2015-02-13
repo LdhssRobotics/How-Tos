@@ -4,3 +4,6 @@ Thumbs.db
 # Temp files
 *~
 *.swp
+
+# OK to import into Eclipse, but don't make it a permanent Eclipse Project
+.project
